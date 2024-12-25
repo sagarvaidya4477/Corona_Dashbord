@@ -28,5 +28,4 @@ Make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-  https://github.com/sagarvaidya4477/Corona_Dashbord/blob/main/README.md
+   ```bash https://github.com/sagarvaidya4477/Corona_Dashbord/blob/main/README.md
