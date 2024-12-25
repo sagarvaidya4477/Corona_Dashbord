@@ -28,3 +28,5 @@ Make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:  https://github.com/sagarvaidya4477/Corona_Dashbord/blob/main/README.md
+   ![Screenshot (49)](https://github.com/user-attachments/assets/107f33ab-b9d0-4e04-a55b-4654aab9dc4d)
+
